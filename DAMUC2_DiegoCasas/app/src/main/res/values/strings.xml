@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAMUC2_DiegoCasas</string>
+    <string name="radiobutton_sistemas">Ingenieria de Sistemas</string>
+    <string name="radiobutton_ambiental">Ingenieria Ambiental</string>
+    <string name="radiobutton_mecanica">Ingenieria Mecanica</string>
+    <string name="radiobutton_administracion">Administracion</string>
+    <string name="checkbox_radio">Radio</string>
+    <string name="checkbox_internet">Internet</string>
+    <string name="checkbox_amigo">Amigo</string>
+    <string name="checkbox_publicidad">Publicidad</string>
+</resources>
